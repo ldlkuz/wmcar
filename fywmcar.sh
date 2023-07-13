@@ -20,7 +20,7 @@ echo "装下载工具"
 sleep 2
 pkg install -y curl 
 echo "下载工具包"
-curl -O https://quesans.com/down/down/wanmei.zip
+curl -O https://quesans.com/down/wanmei.zip
 echo "解压并移动到sdcard/wanmei目录"
 unzip wanmei.zip
 sleep 1
